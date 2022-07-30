@@ -17,8 +17,18 @@ body {
     font-size: 14px;
     text-align: center;
     color: white;
+    margin-left: 50px;
   }
-  
+   h2 a{
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    color: rgba(105, 90, 205, 0.884);
+    text-transform: lowercase;
+    font-size: 9px;
+    letter-spacing: 1px;
+    margin-left: 50px;
+  }
   .clock {
     display: flex;
   }
